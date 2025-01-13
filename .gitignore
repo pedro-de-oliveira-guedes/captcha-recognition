@@ -176,3 +176,4 @@ cython_debug/
 # Modelos e checkpoints de dados
 *.pkl
 *.h5
+*.keras
